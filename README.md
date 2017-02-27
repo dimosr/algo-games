@@ -4,3 +4,8 @@ This repo contains a set of algorithmic problems, along with their respective so
 - a ``README`` file with the description of the problem
 - the input and the corresponding output files in the data ``folder``
 - a solution of the problem in the ``solution`` folder
+
+## Problems
+
+- [Problem 1](problem-1)
+- [Problem 2](problem-2)
