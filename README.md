@@ -10,3 +10,4 @@ This repo contains a set of algorithmic problems, along with their respective so
 - [Problem 1](problem-1)
 - [Problem 2](problem-2)
 - [Problem 3](problem-3)
+- [Problem 4](problem-4)
