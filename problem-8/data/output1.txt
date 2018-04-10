@@ -1,0 +1,6 @@
+Case #0: 1
+Case #1: 0
+Case #2: IMPOSSIBLE
+Case #3: 2
+Case #4: 0
+Case #5: 5

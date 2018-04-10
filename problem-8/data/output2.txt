@@ -1,0 +1,5 @@
+Case #0: 26
+Case #1: IMPOSSIBLE
+Case #2: 18
+Case #3: IMPOSSIBLE
+Case #4: 2
